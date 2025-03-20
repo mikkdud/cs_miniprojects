@@ -1,0 +1,15 @@
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab2/lab21/bin/Debug/net8.0/lab21
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab2/lab21/bin/Debug/net8.0/lab21.deps.json
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab2/lab21/bin/Debug/net8.0/lab21.runtimeconfig.json
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab2/lab21/bin/Debug/net8.0/lab21.dll
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab2/lab21/bin/Debug/net8.0/lab21.pdb
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab2/lab21/obj/Debug/net8.0/lab21.GeneratedMSBuildEditorConfig.editorconfig
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab2/lab21/obj/Debug/net8.0/lab21.AssemblyInfoInputs.cache
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab2/lab21/obj/Debug/net8.0/lab21.AssemblyInfo.cs
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab2/lab21/obj/Debug/net8.0/lab21.csproj.CoreCompileInputs.cache
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab2/lab21/obj/Debug/net8.0/lab21.sourcelink.json
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab2/lab21/obj/Debug/net8.0/lab21.dll
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab2/lab21/obj/Debug/net8.0/refint/lab21.dll
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab2/lab21/obj/Debug/net8.0/lab21.pdb
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab2/lab21/obj/Debug/net8.0/lab21.genruntimeconfig.cache
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab2/lab21/obj/Debug/net8.0/ref/lab21.dll
