@@ -1,0 +1,15 @@
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab5/prog4/bin/Debug/net8.0/prog4
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab5/prog4/bin/Debug/net8.0/prog4.deps.json
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab5/prog4/bin/Debug/net8.0/prog4.runtimeconfig.json
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab5/prog4/bin/Debug/net8.0/prog4.dll
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab5/prog4/bin/Debug/net8.0/prog4.pdb
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab5/prog4/obj/Debug/net8.0/prog4.GeneratedMSBuildEditorConfig.editorconfig
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab5/prog4/obj/Debug/net8.0/prog4.AssemblyInfoInputs.cache
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab5/prog4/obj/Debug/net8.0/prog4.AssemblyInfo.cs
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab5/prog4/obj/Debug/net8.0/prog4.csproj.CoreCompileInputs.cache
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab5/prog4/obj/Debug/net8.0/prog4.sourcelink.json
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab5/prog4/obj/Debug/net8.0/prog4.dll
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab5/prog4/obj/Debug/net8.0/refint/prog4.dll
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab5/prog4/obj/Debug/net8.0/prog4.pdb
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab5/prog4/obj/Debug/net8.0/prog4.genruntimeconfig.cache
+/home/mikolaj/Desktop/isi4/cs_miniprojects/lab5/prog4/obj/Debug/net8.0/ref/prog4.dll
